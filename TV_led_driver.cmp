@@ -1,0 +1,203 @@
+Cmp-Mod V01 Created by PcbNew   date = Вт 04.2.y 21:37:19
+
+BeginCmp
+TimeStamp = 5E388BBD
+Path = /5E38EB19
+Reference = SW1;
+ValeurCmp = SW_PWM;
+IdModule  = Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E3A11D9
+Path = 
+Reference = LOGO02;
+ValeurCmp = OSHW-Logo;
+IdModule  = Symbol:OSHW-Logo2_7.3x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E3A0F75
+Path = 
+Reference = LOGO03;
+ValeurCmp = WEEE-Logo;
+IdModule  = Symbol:WEEE-Logo_4.2x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E39FE7B
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = TV_led_driver:logo_small;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E39FD61
+Path = 
+Reference = MNT4;
+ValeurCmp = MNTHole_2.5mm_Pad;
+IdModule  = MountingHole:MountingHole_2.5mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E39FD44
+Path = 
+Reference = MNT3;
+ValeurCmp = MNT_2.5mm_Pad;
+IdModule  = MountingHole:MountingHole_2.5mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E39FD27
+Path = 
+Reference = MNT2;
+ValeurCmp = MNT_2.5mm_Pad;
+IdModule  = MountingHole:MountingHole_2.5mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E39FD0A
+Path = 
+Reference = MNT1;
+ValeurCmp = MNT_2.5mm_Pad;
+IdModule  = MountingHole:MountingHole_2.5mm_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E39E10D
+Path = 
+Reference = HEATSINK;
+ValeurCmp = Heatsink_132_32x14mm_2xFixation1.5mm;
+IdModule  = Heatsink:Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E39949D
+Path = /5E3B3700
+Reference = U1;
+ValeurCmp = L7805-1.5a;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E3993AA
+Path = /5E3FA753
+Reference = Q3B1;
+ValeurCmp = IRF540N;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E399390
+Path = /5E3F89B7
+Reference = Q2G1;
+ValeurCmp = IRF540N;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E399376
+Path = /5E3EC685
+Reference = Q1R1;
+ValeurCmp = IRF540N;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E388B84
+Path = /5E392670
+Reference = J2;
+ValeurCmp = Conn_01x04_Male;
+IdModule  = Connector_JST:JST_EH_S4B-EH_1x04_P2.50mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E39931A
+Path = /5E3B16DA
+Reference = J1;
+ValeurCmp = Barrel_Jack 1G2+;
+IdModule  = Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E399259
+Path = /5E3CEA18
+Reference = C4;
+ValeurCmp = CP47mf16V;
+IdModule  = Capacitor_THT:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E3991D5
+Path = /5E3CFEBD
+Reference = C3;
+ValeurCmp = cer0.1mf50V;
+IdModule  = Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E3991C2
+Path = /5E3C641A
+Reference = C2;
+ValeurCmp = cer0.1mf50V;
+IdModule  = Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E3991AF
+Path = /5E3BB3B3
+Reference = C1;
+ValeurCmp = CP470mf16V;
+IdModule  = Capacitor_THT:CP_Radial_D8.0mm_P3.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E38A3D7
+Path = /5E3A734C
+Reference = R2;
+ValeurCmp = R_LED 200;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E38A3C0
+Path = /5E3A43CC
+Reference = R1;
+ValeurCmp = R_LED 200;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E38A2D9
+Path = /5E3A36C5
+Reference = D2;
+ValeurCmp = LED COMM;
+IdModule  = LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E38A2AF
+Path = /5E3A0D41
+Reference = D1;
+ValeurCmp = LED PWM;
+IdModule  = LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E389675
+Path = /5E3965AD
+Reference = U2;
+ValeurCmp = TSOP1738;
+IdModule  = OptoDevice:Vishay_CAST-3Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E386A24
+Path = /5E386AC0
+Reference = Arduino_Nano_v3.x;
+ValeurCmp = Arduino_Nano_v3.x;
+IdModule  = Module:Arduino_Nano;
+EndCmp
+
+EndListe
